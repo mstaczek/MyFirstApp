@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">App Example</string>
+    <string name="qrTitleMsg">Scan QR Code</string>
+    <string name="quizTitleEnd">the code in the bottom is ready!</string>
+    <string name="quizTitle">Answer correctly </string>
+
+    <string name="scanBtn">QR Scanner</string>
+    <string name="scanning">Scanning</string>
+    <string name="scanned">Scanned! Press back.</string>
+
+    <string name="niesurpriseBtnText">Surprise ;P</string>
+    <string name="quizBtnText">Quiz</string>
+
+    <string name="back">Back</string>
+    <string name="introMessage">Hi there, pass both tests and return here!</string>
+
+    <string name="quiz_back">Yay, what next?</string>
+    <string name="quiz_end">Great, all answers were correct!</string>
+
+    <string name="quizPassed">Quiz passed 😉</string>
+    <string name="quizFailed">Failed QUIZ - try again</string>
+
+    <string name="qrFailed">Failed QR - try again</string>
+    <string name="qrPassed">Time for a surprise😁</string>
+    <string name="qrFailedWrongHASH">Wrong code was scanned ;P</string>
+    <string name="menuTitle">Meny screen</string>
+</resources>

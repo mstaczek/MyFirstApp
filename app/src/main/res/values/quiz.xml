@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>q1</item>
+        <item>q2</item>
+        <item>q3</item>
+        <item>q4</item>
+        <item>q5</item>
+        <item>q6</item>
+        <item>q7</item>
+        <item>q8</item>
+        <item>q9</item>
+    </string-array>
+
+    <string-array name="answers">
+        <item>ans11</item>
+        <item>ans12</item>
+        <item>ans13</item>
+
+        <item>ans21</item>
+        <item>ans22</item>
+        <item>ans23</item>
+
+        <item>ans31</item>
+        <item>ans32</item>
+        <item>ans33</item>
+
+        <item>ans41</item>
+        <item>ans42</item>
+        <item>ans43</item>
+
+        <item>ans51</item>
+        <item>ans52</item>
+        <item>ans53</item>
+
+        <item>ans61</item>
+        <item>ans62</item>
+        <item>ans63</item>
+
+        <item>ans71</item>
+        <item>ans72</item>
+        <item>ans73</item>
+
+        <item>ans81</item>
+        <item>ans82</item>
+        <item>ans83</item>
+
+        <item>ans91</item>
+        <item>ans92</item>
+        <item>ans93</item>
+    </string-array>
+
+    <string-array name="solution">
+        <item>4</item>
+        <item>9</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>8</item>
+        <item>1</item>
+        <item>6</item>
+    </string-array>
+</resources>
